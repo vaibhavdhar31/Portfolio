@@ -1,7 +1,7 @@
 <h1 align="center">DevFolio</h1>
 
 <p align="center">This website is an opportunity to demonstrate a <b>Portfolio</b> of information about me and to provide further information (via links) about my work.<p>
-
+   
   ### <code>Live Demo</code> - **[Portfolio Website](https://vaibhavdhar31.github.io/Portfolio/)**
 
 # Website Preview
